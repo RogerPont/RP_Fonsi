@@ -6,6 +6,7 @@ número = int(input("introdueix el número: "))
 while True:
     if número % 1 == 0:
         if número % 2 == 0:
+            # codi no definit
             print(f"{número, número2} es parell.")
         else:
             print(f"{número, número1} es senar.")
